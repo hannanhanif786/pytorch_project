@@ -1,0 +1,6 @@
+What is gradient descent:
+	Gradient descent is an optimization algorithm which is commonly-used to train machine learning models and neural networks. Training 	data helps these models learn over time, and the cost function within gradient descent specifically acts as a barometer, gauging its 	accuracy with each iteration of parameter updates.
+ What is gradient descent?
+ 	A cost function is an important parameter that determines how well a machine learning model performs for a given dataset. It 		calculates the difference between the expected value and predicted value and represents it as a single real number
+What is Neural Network?
+	A neural network is a method in artificial intelligence that teaches computers to process data in a way that is inspired by the human 		brain. It is a type of machine learning process, called deep learning, that uses interconnected nodes or neurons in a layered 		structure that resembles the human brain.
